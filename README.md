@@ -1,6 +1,7 @@
 # CalcularGastos
 ## Descripcion de Proyecto
-Proyecto en Javascript y POO. 
+Proyecto en Javascript y POO. Se realiza una consulta de presupuesto para iniciar, luego la opcion de registrar los gastos estimados de la semana y eliminar si se requiere.
+
 
 Este proyecto es un aprendizaje del curso en udemy dictado por el profesor Juan de la Torre (https://www.udemy.com/course/javascript-moderno-guia-definitiva-construye-10-proyectos/).
 
